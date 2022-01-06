@@ -1,0 +1,72 @@
+*{
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+}
+nav{
+    display: inline-block;
+    position: relative;
+    left: 40%;
+    
+    
+}
+a{
+    color:black;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 30px;
+    
+}
+
+header{
+    background-image: linear-gradient(30deg,rgb(15,20,58),rgb(227,190,207));
+    height: 200px;
+    
+}
+h1{
+    color: white;
+    font-size: 100px;
+    position: relative;
+    top: 80px;
+    left: 10px;
+}
+h1>span{
+    font-size: 15px;
+}
+h2{
+    color: white;
+    font-size: 50px;
+    position: relative;
+    top: 400px ;
+    margin-left: 10px;
+    
+}
+.imagen{
+    height: 700px;
+    background-image: url(lance-anderson-O_adOQ1h2uk-unsplash_opt.jpg);
+    background-clip: content-box;
+    background-size: cover;
+    background-position: left bottom;
+}
+img{
+    height: 300px;
+}
+.texto{
+    display: flex;
+    align-items:center;
+    justify-content: space-evenly;
+    width: 80%;
+}
+.texto>div{
+    text-align: left;
+    margin: 30px;
+    color:black;
+}
+h3{
+    margin-left: 30px;
+    width: 100%;
+    
+}

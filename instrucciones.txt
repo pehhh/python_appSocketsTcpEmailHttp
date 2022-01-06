@@ -1,0 +1,2 @@
+1. Lanzar servidor.py desde cmd
+2. Lanzar cliente.py desde un segundo cmd para realizar el socket
